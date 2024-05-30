@@ -1,9 +1,12 @@
 {
     "development": {
-        "username": "root",
-        "password": "root",
+        "username": "sa",
+        "password": "123456",
         "database": "flightbookingsystem",
-        "host": "127.0.0.1",
-        "dialect": "mysql"
+        "host": "Localhost",
+        "dialect": "mssql",
+        "port": 1433
+
     }
+    
 }
