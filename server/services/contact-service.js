@@ -16,8 +16,6 @@ class ContactService {
       // port: 465,
       // secure: true,
       auth: {
-        user: "aayushdoshi24hrs@gmail.com",
-        pass: "mkap homw mvzc poot",
       },
     });
   }
